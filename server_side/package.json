@@ -4,7 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dbSelect_userInfo": "node scriptSQLQuery/userInfo/dbSelect_userInfo.js",
+    "dbInsert_userInfo": "node scriptSQLQuery/userInfo/dbInsert_userInfo.js",
+    "dbUpdate_userInfo": "node scriptSQLQuery/userInfo/dbUpdate_userInfo.js",
+    "dbDelete_userInfo": "node scriptSQLQuery/userInfo/dbDelete_userInfo.js"
   },
   "keywords": [
     "examination",

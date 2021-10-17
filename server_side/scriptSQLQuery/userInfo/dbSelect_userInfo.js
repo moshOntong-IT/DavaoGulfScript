@@ -9,3 +9,5 @@ sql.query("SELECT * FROM davaogulf_group.user_info",(err,rst)=>{
         console.log(rst.rows);
     }
 })
+
+sql.end();
