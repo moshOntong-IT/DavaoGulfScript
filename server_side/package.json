@@ -5,7 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dbSelect_userInfo": "node scriptSQLQuery/userInfo/dbSelect_userInfo.js"
+    "dbSelect_userInfo": "node scriptSQLQuery/userInfo/dbSelect_userInfo.js",
+    "dbInsert_customer": "node scriptSQLQuery/customer/dbInsert_customer.js",
+    "dbSelect_customer": "node scriptSQLQuery/customer/dbSelect_customer.js",
+    "dbUpdate_customer": "node scriptSQLQuery/customer/dbUpdate_customer.js",
+    "dbDelete_customer": "node scriptSQLQuery/customer/dbDelete_customer.js"
   },
   "keywords": [
     "examination",
