@@ -8,7 +8,17 @@
     "dbSelect_userInfo": "node scriptSQLQuery/userInfo/dbSelect_userInfo.js",
     "dbInsert_userInfo": "node scriptSQLQuery/userInfo/dbInsert_userInfo.js",
     "dbUpdate_userInfo": "node scriptSQLQuery/userInfo/dbUpdate_userInfo.js",
-    "dbDelete_userInfo": "node scriptSQLQuery/userInfo/dbDelete_userInfo.js"
+    "dbDelete_userInfo": "node scriptSQLQuery/userInfo/dbDelete_userInfo.js",
+    "dbInsert_customerValidation": "node scriptSQLQuery/customer_validation/dbInsert_customerValidation",
+    "dbSelect_customerValidation": "node scriptSQLQuery/customer_validation/dbSelect_customerValidation",
+    "dbInsert_customer": "node scriptSQLQuery/customer/dbInsert_customer.js",
+    "dbSelect_customer": "node scriptSQLQuery/customer/dbSelect_customer.js",
+    "dbUpdate_customer": "node scriptSQLQuery/customer/dbUpdate_customer.js",
+    "dbDelete_customer": "node scriptSQLQuery/customer/dbDelete_customer.js",
+    "dbInsert_admin": "node scriptSQLQuery/admin/dbInsert_admin.js",
+    "dbDelete_admin": "node scriptSQLQuery/admin/dbDelete_admin.js",
+    "dbSelect_admin": "node scriptSQLQuery/admin/dbSelect_admin.js",
+    "dbUpdate_admin": "node scriptSQLQuery/admin/dbUpdate_admin.js"
   },
   "keywords": [
     "examination",
