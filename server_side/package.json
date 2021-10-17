@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dbSelect_userInfo": "node scriptSQLQuery/userInfo/dbSelect_userInfo.js"
   },
   "keywords": [
     "examination",
@@ -19,4 +20,5 @@
     "express": "^4.17.1",
     "pg": "^8.7.1"
   }
+
 }
