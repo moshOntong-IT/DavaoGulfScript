@@ -9,3 +9,4 @@ sql.query("SELECT * FROM davaogulf_group.admin",(err,rst)=>{
         console.log(rst.rows);
     }
 })
+sql.end();

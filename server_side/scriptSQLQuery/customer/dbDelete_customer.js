@@ -11,3 +11,4 @@ sql.query(
     }
   }
 );
+sql.end();

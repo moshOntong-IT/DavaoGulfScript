@@ -8,3 +8,4 @@ sql.query("SELECT * FROM davaogulf_group.customer", (err, rst) => {
     console.log(rst.rows);
   }
 });
+sql.end();

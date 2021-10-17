@@ -10,3 +10,4 @@ sql.query("DELETE FROM davaogulf_group.admin WHERE admin_id = $1 RETURNING *",
         console.log(res.rows);
     }
 });
+sql.end();

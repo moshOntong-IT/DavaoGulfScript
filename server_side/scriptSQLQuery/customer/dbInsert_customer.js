@@ -19,3 +19,4 @@ sql.query(insertQuery, values, (err, res) => {
     console.log(res.rows);
   }
 });
+sql.end();

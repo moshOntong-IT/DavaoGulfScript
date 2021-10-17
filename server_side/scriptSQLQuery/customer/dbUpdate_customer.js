@@ -11,3 +11,5 @@ sql.query(
     }
   }
 );
+
+sql.end();

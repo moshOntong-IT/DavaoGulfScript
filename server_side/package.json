@@ -20,7 +20,8 @@
     "dbInsert_admin": "node scriptSQLQuery/admin/dbInsert_admin.js",
     "dbDelete_admin": "node scriptSQLQuery/admin/dbDelete_admin.js",
     "dbSelect_admin": "node scriptSQLQuery/admin/dbSelect_admin.js",
-    "dbUpdate_admin": "node scriptSQLQuery/admin/dbUpdate_admin.js"
+    "dbUpdate_admin": "node scriptSQLQuery/admin/dbUpdate_admin.js",
+    "dbInsert_product": "node scriptSQLQuery/product/dbInsert_product.js"
   },
   "keywords": [
     "examination",
