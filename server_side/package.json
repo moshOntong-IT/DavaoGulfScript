@@ -11,6 +11,8 @@
     "dbDelete_userInfo": "node scriptSQLQuery/userInfo/dbDelete_userInfo.js",
     "dbInsert_customerValidation": "node scriptSQLQuery/customer_validation/dbInsert_customerValidation",
     "dbSelect_customerValidation": "node scriptSQLQuery/customer_validation/dbSelect_customerValidation",
+    "dbUpdate_customerValidation": "node scriptSQLQuery/customer_validation/dbUpdate_customerValidation",
+    "dbDelete_customerValidation": "node scriptSQLQuery/customer_validation/dbDelete_customerValidation",
     "dbInsert_customer": "node scriptSQLQuery/customer/dbInsert_customer.js",
     "dbSelect_customer": "node scriptSQLQuery/customer/dbSelect_customer.js",
     "dbUpdate_customer": "node scriptSQLQuery/customer/dbUpdate_customer.js",
